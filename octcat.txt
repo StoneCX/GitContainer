@@ -1,1 +1,2 @@
 this txt is to demostrate how git work
+this line is new add
